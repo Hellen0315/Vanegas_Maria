@@ -1,3 +1,5 @@
+import '../Menu/menu.css';
+
 const Filter = () => {
     return (
       <div className="menu">

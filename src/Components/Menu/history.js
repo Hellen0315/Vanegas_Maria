@@ -1,3 +1,5 @@
+import '../Menu/menu.css';
+
 const History = () => {
     return (
       <div className="menu">
