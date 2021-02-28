@@ -34,20 +34,4 @@
     }
   }
   
-  @media screen and (max-width: 600px) {
-    .banner {
-      min-height: 1rem;
-      padding: 0rem;
-      background-size: auto 70%;
-      background-size: auto 100%;
-      background-position: right;
-      background-repeat: no-repeat;
-      position: relative;
-    }
-    .titleMenu {
-      color: white;
-      font-weight: bold;
-      font-size: 2rem;
-      text-shadow: 2px 2px 2px rgba(0, 0, 0,0.3);
-    }
-  }
+ 

@@ -37,8 +37,9 @@
         .product{
             display: flex;
             flex-direction: column;
-   
-            width: 280px;
+            width:90%;
+            height:auto;
+            padding:5px;
         }
         .category{
             color: #a3a3a3;
